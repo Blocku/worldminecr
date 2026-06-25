@@ -58,3 +58,6 @@ Secret: 7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D
 Server: Unknown 
 Port: 443
 Secret: eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+
+mirror: https://hynet.cloud/s/K3h0JQADU3glfiVUSXYYd3Vw
+main: https://hynet-connect.com/s/K3h0JQADU3glfiVUSXYYd3Vw
